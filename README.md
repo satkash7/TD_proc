@@ -1,13 +1,13 @@
 # TD_proc
-ACHUNGE BATEGEJO
-AGANZE CHIRIMWAMI
-AGISHA WANI
-AHABA BAHARANYI
-AKONKWA BISIMWA
-AKONKWA CHIKWANINE
-ALFAJIRI NDABEREYE
-AMANI KAHASHI
-AMPIRE BISIMWA
+ACHUNGE BATEGEJO.
+AGANZE CHIRIMWAMI.
+AGISHA WANI.
+AHABA BAHARANYI.
+AKONKWA BISIMWA.
+AKONKWA CHIKWANINE.
+ALFAJIRI NDABEREYE.
+AMANI KAHASHI.
+AMPIRE BISIMWA.
 
 EXERCICE1 : Le programme commence par demander à l'utilisateur d'entrer un nombre de secondes (en utilisant scanner.nextInt()).
 Heures : Le programme divise le nombre total de secondes par 3600 (le nombre de secondes dans une heure) pour obtenir le nombre d'heures.
